@@ -2,6 +2,21 @@
 The first of several portfolio projects designed to demo my current learning curve.
 This file serves as a backup text file of the project and included descriptions as well as the code used in pgAdmin 4
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 'Creating table for csv import - including data types and constraints this table includes PK'
 DROP TABLE IF EXISTS all_regions;
 CREATE TABLE all_regions(
