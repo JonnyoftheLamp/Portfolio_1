@@ -1,6 +1,7 @@
 # Portfolio_1
 The first of several portfolio projects designed to demo my current learning curve.
-This file serves as a backup text file of the project and included descriptions as well as the code used in pgAdmin 4
+The portfolio_1_postgresql.sql file includes descriptions and the code used in pgAdmin 4 with postgresql.
+This readme serves as a backup text file of the project.
 
 
 
